@@ -1,0 +1,20 @@
+Step 1: Download and install XAMPP Server
+	here its link: https://sourceforge.net/projects/xampp/
+
+Step 2: Paste your project in C://xampp/htdocs
+
+Step 3: Run xmapp server and start all service
+
+Step 4: Create database "bank" and import "bank.sql"
+	for this step:
+	Open your browser and paste this link 					"http://localhost/phpmyadmin"
+
+
+DON'T FORGET TO CREATE A DATABASE NAMING "bank" AND IMPORT THE "bank.sql" FILE AND RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+CONTACT NO: 8824112835
+EMAIL : manjeet19@iiserb.ac.in
